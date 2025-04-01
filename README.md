@@ -86,7 +86,7 @@ Projeye katkıda bulunmak isterseniz **pull request** gönderebilir veya **issue
 
 ## 📜 Lisans  
 
-Bu proje **GPL V3 Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına göz atabilirsiniz.  
+Bu proje **GPL V3 Lisansı** ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE.txt) dosyasına göz atabilirsiniz.  
 
 ---
 
