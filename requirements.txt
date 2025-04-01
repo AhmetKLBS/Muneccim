@@ -6,3 +6,4 @@ obspy
 pandas
 py3nvml
 tqdm
+DeepShake
