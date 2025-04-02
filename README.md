@@ -21,7 +21,6 @@ Müneccim, **USGS API**'den alınan **sismik verileri** kullanarak **DeepShake m
 ```bash
 pip install -r requirements.txt
 
-Tabii ki! İşte projen için profesyonel ve açıklayıcı bir **README.md** dosyası:  
 
 ```markdown
 # 🔮 Müneccim - Deprem Tahmin Uygulaması  
